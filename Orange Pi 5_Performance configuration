@@ -1,0 +1,9 @@
+
+SOC芯片：瑞芯微RK3588S
+  核心数：8个 => 四核A76 + 四核A55
+  制程工艺：三星8nm
+  GPU:ARM Mali-G610 MP4 => 4个执行单元、64个着色单元、最大频率为 0.6 GHz 
+  
+内存选配：4GB/8GB/16GB/32GB（LPDDR4/4x）
+
+接口：HDMI输出、GPIO接口、Type-C、M.2 PCIe2.0、千兆网口、2个USB2.0（其中一个USB与Type—c共享共用），1个USB3.0
